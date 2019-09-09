@@ -1,7 +1,8 @@
 *.so
 *.o
-
 *~
 *.swp
-
 src/Makevars
+.Rproj.user
+config.log
+config.status

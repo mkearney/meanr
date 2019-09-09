@@ -1,0 +1,2 @@
+struct sentwords{ char *word; int score; };
+%%
